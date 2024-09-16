@@ -10,4 +10,7 @@
 
 #include "device.h"
 
+void Compare();
+void transmit_data();
+
 #endif /* TASKS_H_ */

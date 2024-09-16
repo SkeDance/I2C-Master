@@ -2,10 +2,10 @@
 #define DEVICE_H_
 
 // Ports:
-#define PORT_DI1			PortA, pin0
-#define PORT_DI1_1			PortA, pin1
+#define LED1				PortA, pin0
+#define LED2				PortA, pin1
 
-#define PORT_DI2			PortA, pin2
+#define LED3				PortA, pin2
 #define PORT_DI2_1			PortA, pin3
 
 #define PORT_DI3			PortA, pin4

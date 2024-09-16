@@ -2,9 +2,9 @@
 
 void Init_PORT()
 {
-	Port_init(PORT_DI1, OUT, true);
-	Port_init(PORT_DI1_1, OUT, true);
-	Port_init(PORT_DI2, OUT, true);
+	Port_init(LED1, OUT, true);
+	Port_init(LED2, OUT, true);
+	Port_init(LED3, OUT, true);
 	Port_init(PORT_DI2_1, IN, true);
 	Port_init(PORT_DI3, IN, true);
 	Port_init(PORT_DI3_1, IN, true);

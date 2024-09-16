@@ -27,6 +27,7 @@
 *.vs
 /Master/I and O module/Debug/
 /Master/I and O module/libs/
+/info.txt
 
 #User Specific Files
 *.atsuo

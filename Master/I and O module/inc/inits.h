@@ -17,7 +17,5 @@
 
 void Init_PORT();
 void Init_I2C();
-void Compare();
-void transmit_data();
 
 #endif
