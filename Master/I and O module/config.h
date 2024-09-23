@@ -8,7 +8,7 @@
 // For i2c lib
 #define DATA_SIZE 8				//размер карты регистров
 #define READ_REGISTERS_SIZE 8	//количество байт для чтения
-#define TX_DATA_SIZE 8			//не меньше 1
+#define TX_DATA_SIZE 17			//не меньше 1
 #define I2C_MASTER_BUFFER_SIZE 1
 #define I2C_MASTER_MAP_SIZE 1
 #define I2C_ALL_SLAVES_REGISTERS_MAP 1

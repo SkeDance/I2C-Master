@@ -3,6 +3,9 @@
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <locale.h>
 
 #include "mtr_port/mtr_port.h"
 #include "mtr_data/mtr_data.h"
@@ -17,5 +20,6 @@
 
 void Init_PORT();
 void Init_I2C();
+void Init_Planner();
 
 #endif

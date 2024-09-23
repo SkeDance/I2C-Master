@@ -3,6 +3,9 @@
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <locale.h>
 
 #include "mtr_data/mtr_data.h"
 #include "mtr_port/mtr_port.h"
